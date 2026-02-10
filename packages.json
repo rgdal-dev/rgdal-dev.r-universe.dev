@@ -1,0 +1,14 @@
+[
+  {
+    "package": "GDAL7"
+  },
+  {
+    "package": "ggdal"
+  },
+  {
+    "package": "osgeo0"
+  },
+  {
+    "package": "rgdal"
+  }
+]
