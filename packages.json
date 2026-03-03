@@ -1,5 +1,8 @@
 [
   {
+    "package": "cogcache"
+  },
+  {
     "package": "GDAL7"
   },
   {
@@ -7,8 +10,6 @@
   },
   {
     "package": "osgeo0"
-  },
-  {
-    "package": "rgdal"
   }
+  
 ]
